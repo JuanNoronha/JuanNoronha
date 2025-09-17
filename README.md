@@ -25,7 +25,7 @@ I’m <b>Juan Noronha</b>, a <b>Master of Science in Information Systems</b> gra
 <p align="left">
   <b>Program Assistant | Northeastern University | Snell Engineering Centre | Boston, Massachusetts</b><br/>
   <b>Date:</b> Jan 2025 – Apr 2025<br/>
-  I engineered Python and Bash scripts to automate software configuration checks on 50+ lab machines, cutting manual verification time. I mentored 100+ students on Git and GitHub best practices, resulting in a 40% reduction in version control issues like merge conflicts. I also administered the engineering development environment across 50+ workstations—managing software such as MATLAB and SolidWorks and overseeing user access—to maintain 99% operational uptime.
+  I engineered Python and Bash scripts to automate software configuration checks on 50+ lab machines, cutting manual verification time. I mentored 100+ students on Git and GitHub best practices, resulting in a 40% reduction in version control issues like merge conflicts. I also administered the engineering development environment across 50+ workstations, managing software such as MATLAB and SolidWorks and overseeing user access—to maintain 99% operational uptime.
 </p>
 
 <p align="left">
@@ -36,7 +36,7 @@ I’m <b>Juan Noronha</b>, a <b>Master of Science in Information Systems</b> gra
 <!-- /ADDED BLOCK -->
 
 <p align="left">
-During my undergraduate years at the University of Mumbai, I acted as a Marketing Executive and E-Leader, securing sponsorships and orchestrating TEDx-affiliated events and business-planning competitions. I also contributed as a graphic designer in the Coding Committee, promoting social-media campaigns and web layouts that elevated campus-wide engagement. I’m an avid marathoner—an endeavor that sharpens my grit, focus, and love of continuous improvement.
+During my undergraduate years at the University of Mumbai, I acted as a Marketing Executive and E-Leader, securing sponsorships and orchestrating TEDx-affiliated events and business-planning competitions. I also contributed as a graphic designer in the Coding Committee, promoting social-media campaigns and web layouts that elevated campus-wide engagement. I’m an avid marathoner which is an endeavor that sharpens my grit, focus, and love of continuous improvement.
 </p>
 
 ---
