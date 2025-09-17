@@ -1,11 +1,13 @@
-<h1 align="left">Hello 👋 </h1>
+<h1 align="left">Hello there ! 👋 </h1>
 
 <p align="left">
 My name is <b>Juan Noronha</b>. I am currently pursuing a <b>Master of Science in Information Systems</b> at <b>Northeastern University</b>
 </p>
 
-<!-- Socials (LinkedIn only) -->
 <p align="left">
+  <a href="https://github.com/juannoronhajnb">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: Juan Noronha" />
+  </a>
   <a href="https://www.linkedin.com/in/juannoronhajnb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Juan Noronha" />
   </a>
@@ -38,12 +40,50 @@ During my undergraduate years at the University of Mumbai, I acted as a Marketin
 </p>
 
 ---
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,ruby,typescript,python,php,html,css,sass,bootstrap,tailwind,react,vue,angular,redux,nodejs,express,nextjs,kafka,graphql,flutter,kotlin,mysql,mongodb,postgresql,redis,firebase,tensorflow,pytorch,git,github,vscode,figma,postman&perline=10" 
-    alt="Tech stack icons" 
-  />
-</p>
+<!-- Programming Languages -->
+<div align="center">
+  <h3>Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,ruby,typescript,python,php&perline=9" />
+</div>
 
+<!-- Frontend Development -->
+<div align="center">
+  <h3>Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=vue,react,angular,bootstrap,css,html,sass,redux,tailwind&perline=9" />
+</div>
+
+<!-- Backend Development -->
+<div align="center">
+  <h3>Backend Development</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,kafka,graphql,rabbitmq&perline=4" />
+</div>
+
+<!-- Mobile App Development -->
+<div align="center">
+  <h3>Mobile App Development</h3>
+  
+  <!-- Android (from Devicon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" style="background:#1e1e1e; border-radius:12px; padding:6px;" alt="Android"/>
+  
+  <!-- Flutter, Kotlin (from skillicons) -->
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin" />
+  
+  <!-- React Native (reuse React logo) -->
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+</div>
+
+<!-- AI / ML -->
+<div align="center">
+  <h3>AI / ML</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" style="background:#1e1e1e; border-radius:12px; padding:6px;" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" style="background:#1e1e1e; border-radius:12px; padding:6px;" alt="Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
+</div>
+
+<!-- Database -->
+<div align="center">
+  <h3>Database</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&perline=4" />
+</div>
