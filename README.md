@@ -40,7 +40,7 @@ During my undergraduate years at the University of Mumbai, I acted as a Marketin
 </p>
 
 ---
-<h2 align="center">I code with</h2>
+<h2 align="left">Technical Skills</h2>
 
 <!-- Programming Languages -->
 <div align="center">
