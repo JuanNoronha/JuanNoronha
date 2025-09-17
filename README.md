@@ -18,7 +18,7 @@ My name is <b>Juan Noronha</b>. I am currently pursuing a <b>Master of Science i
 <h2 align="left">About</h2>
 
 <p align="left">
-I am a <b>Master of Science in Information Systems</b> graduate student at <b>Northeastern University, Boston</b>, with a <b>Bachelor’s in Computer Engineering</b> from <b>Mumbai University</b>.
+I am a <b>Master of Science in Information Systems</b> graduate student at <b>Northeastern University</b> with a <b>Bachelor’s in Computer Engineering</b> from <b>Mumbai University</b>.
 </p>
 
 <!-- ADDED BLOCK: roles with Date on its own line (not italic) -->
